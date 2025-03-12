@@ -1,1 +1,4 @@
 lider 1
+desarrollador1
+desarrollador2
+desarrollador3
